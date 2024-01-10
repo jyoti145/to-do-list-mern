@@ -24,3 +24,14 @@ This is a simple MERN (MongoDB, Express.js, Node.js) To-Do List application. It 
 - cd frontend
 - npm i -f
 - npm run dev
+
+### Config
+- Before running the application configure the environment variables
+- Create a .env file in the backend directory.
+
+- Add the following environment variables to the .env file:
+PORT=8000
+DB_CONNECTION_STRING=<your_mongodb_uri>
+JWT_SECRET=webcipher
+
+
