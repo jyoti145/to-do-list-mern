@@ -1,7 +1,7 @@
 # MERN To-Do List App
 
 ## Introduction
-This is a simple MERN (MongoDB, Express.js, React, Node.js) To-Do List application. It consists of a frontend built with React and a backend built with Node.js and Express, connected to a MongoDB database.
+This is a simple MERN (MongoDB, Express.js, Node.js) To-Do List application. It consists of a frontend built with javascript and a backend built with Node.js and Express, connected to a MongoDB database.
 
 ## Features
 - Create, read, update, and delete tasks in the to-do list.
