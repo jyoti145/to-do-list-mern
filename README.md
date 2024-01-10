@@ -14,13 +14,13 @@ This is a simple MERN (MongoDB, Express.js, React, Node.js) To-Do List applicati
 ## Installation
 
 ### Backend
-navigate to backend dir
-cd backend
-npm i -f
-npm start
+- navigate to backend dir
+- cd backend
+- npm i -f
+- npm start
 
 ### Frontend
-navigate to frontend dir
-cd frontend
-npm i -f
-npm run dev
+- navigate to frontend dir
+- cd frontend
+- npm i -f
+- npm run dev
